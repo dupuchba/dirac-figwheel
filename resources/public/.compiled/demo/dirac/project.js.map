@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/baptistedupuch\/Projects\/clojure\/training\/om-remote\/resources\/public\/.compiled\/demo\/dirac\/project.js","sources":["project.cljs"],"lineCount":9,"mappings":";AAAA;;AAGA,AAAKA,wBAAQ;AAEb,oCAAA,pCAAMC;AAAN,AACED","names":["dirac.project\/version","dirac.project\/get-current-version"]}

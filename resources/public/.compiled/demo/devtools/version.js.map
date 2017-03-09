@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/baptistedupuch\/Projects\/clojure\/training\/om-remote\/resources\/public\/.compiled\/demo\/devtools\/version.js","sources":["version.cljs"],"lineCount":9,"mappings":";AAAA;;AAGA,AAAKA,mCAAgB;AAErB,uCAAA,vCAAMC;AAAN,AACED","names":["devtools.version\/current-version","devtools.version\/get-current-version"]}
